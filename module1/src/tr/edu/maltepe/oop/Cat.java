@@ -1,3 +1,5 @@
+package tr.edu.maltepe.oop;
+
 class Cat {
     private String name;
     private int age;
